@@ -5,5 +5,5 @@ mutant.services.com.infrastructure.shared.$AppContextDefinitionClass
 mutant.services.com.infrastructure.shared.$AppContext$MutantService0DefinitionClass
 mutant.services.com.infrastructure.shared.converter.$ConverterContext$GetMapper0DefinitionClass
 mutant.services.com.application.$MutantCtrDefinitionClass
-mutant.services.com.infrastructure.shared.visitor.$MutationVisitorDefinitionClass
 mutant.services.com.infrastructure.service.$MutantServiceDefinitionClass
+mutant.services.com.infrastructure.shared.visitor.$MutationVisitorDefinitionClass
